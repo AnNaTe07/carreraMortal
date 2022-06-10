@@ -1,8 +1,8 @@
-package lab6.pkg6;
+package carreraMortal;
 
 import java.util.Scanner;
 
-public class Lab66 {
+public class carreraMortal {
 
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);

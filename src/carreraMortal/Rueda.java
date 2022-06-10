@@ -1,4 +1,4 @@
-package lab6.pkg6;
+package carreraMortal;
 
 public class Rueda {
 

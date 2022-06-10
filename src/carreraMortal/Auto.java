@@ -15,7 +15,7 @@ combustible suficiente.
 LlenarTanque: Llenará el tanque de este auto nuevamente con 50lts
 de combustible.
  */
-package lab6.pkg6;
+package carreraMortal;
 
 public class Auto {
 
